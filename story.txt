@@ -11,3 +11,8 @@ Leon had no idea
 neither do I
 do you know?
 
+Leon went to the CS Lab and met with a TA
+The TA was very helpful and described the algorithm
+that was needed to implement the restructuring function
+for the RedBlackTree class. Leon submitted his program and got
+an A+
